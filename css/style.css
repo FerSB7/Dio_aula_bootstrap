@@ -18,3 +18,8 @@ body {
 .parceiros {
   background-color: teal;
 }
+
+.bg-footer {
+  background: black;
+  color: white;
+}
